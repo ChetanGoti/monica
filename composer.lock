@@ -2213,16 +2213,16 @@
         },
         {
             "name": "laravel/cashier",
-            "version": "v10.2.0",
+            "version": "v10.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/cashier.git",
-                "reference": "f0b5bf36323422d811b95a9881c3d97c85ddeb84"
+                "reference": "e9048ec79f0952679b919956e36f0856d45370a8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/cashier/zipball/f0b5bf36323422d811b95a9881c3d97c85ddeb84",
-                "reference": "f0b5bf36323422d811b95a9881c3d97c85ddeb84",
+                "url": "https://api.github.com/repos/laravel/cashier/zipball/e9048ec79f0952679b919956e36f0856d45370a8",
+                "reference": "e9048ec79f0952679b919956e36f0856d45370a8",
                 "shasum": ""
             },
             "require": {
@@ -2282,7 +2282,7 @@
                 "laravel",
                 "stripe"
             ],
-            "time": "2019-09-03T19:00:40+00:00"
+            "time": "2019-09-10T19:46:13+00:00"
         },
         {
             "name": "laravel/framework",
@@ -5208,8 +5208,8 @@
             "authors": [
                 {
                     "name": "Antonio Carlos Ribeiro",
-                    "role": "Creator & Designer",
-                    "email": "acr@antoniocarlosribeiro.com"
+                    "email": "acr@antoniocarlosribeiro.com",
+                    "role": "Creator & Designer"
                 }
             ],
             "description": "A One Time Password Authentication package, compatible with Google Authenticator.",
@@ -6522,21 +6522,21 @@
             "authors": [
                 {
                     "name": "Evert Pot",
-                    "role": "Developer",
                     "email": "me@evertpot.com",
-                    "homepage": "http://evertpot.com/"
+                    "homepage": "http://evertpot.com/",
+                    "role": "Developer"
                 },
                 {
                     "name": "Dominik Tobschall",
-                    "role": "Developer",
                     "email": "dominik@fruux.com",
-                    "homepage": "http://tobschall.de/"
+                    "homepage": "http://tobschall.de/",
+                    "role": "Developer"
                 },
                 {
                     "name": "Ivan Enderlin",
-                    "role": "Developer",
                     "email": "ivan.enderlin@hoa-project.net",
-                    "homepage": "http://mnt.io/"
+                    "homepage": "http://mnt.io/",
+                    "role": "Developer"
                 }
             ],
             "description": "The VObject library for PHP allows you to easily parse and manipulate iCalendar and vCard objects",
